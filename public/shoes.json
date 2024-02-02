@@ -1,0 +1,22 @@
+{
+    "shoes": [
+      {
+        "id": 1,
+        "image": "https://i.imgur.com/5B4CDxT.png",
+        "name": "Bag of Organic Bananas",
+        "description": "Indulge in the goodness of our Premium Organic Bananas, carefully selected for their exceptional quality and natural sweetness. Sourced from sustainable farms, these bananas are a testament to our commitment to delivering freshness and flavor directly to your doorstep.",
+        "price": 5.50,
+        "color": "#f7f6d7",
+        "inCart": false
+      },
+      {
+        "id": 2,
+        "image": "https://i.imgur.com/n5yqQVz.png",
+        "name": "Organic Strawberries",
+        "description": "Elevate your taste experience with our Fresh Organic Strawberries, a burst of irresistible flavor in every bite. Handpicked from organic farms, these succulent strawberries are a celebration of nature's sweetness at its finest.",
+        "price": 10.25,
+        "color": "#f5d3e4",
+        "inCart": false
+      }
+    ]
+  }
