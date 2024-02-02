@@ -1,6 +1,6 @@
-# vue-project
+# Risk-aware Recommender System for E-commerce
 
-This template should help get you started developing with Vue 3 in Vite.
+![image](https://github.com/Hughie-Phan-Lab/risk-aware-recommender-system-for-ecommerce/assets/16631121/3908780a-44b0-41da-a352-d71bdd9183f1)
 
 ## Recommended IDE Setup
 
